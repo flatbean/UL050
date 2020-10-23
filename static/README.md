@@ -17,3 +17,5 @@ p{ }
 </style>
 在CSS的代码里面调用图片方法如下：<br>
 #lang ul li a {display: block; background: url({{url_for('static',filename='lang.png')}}) no-repeat 0 0; height: 40px;}<br>
+<br>
+一个关于Django架站的好文章   https://www.cnblogs.com/shihaoyu/p/10489567.html  <br>
